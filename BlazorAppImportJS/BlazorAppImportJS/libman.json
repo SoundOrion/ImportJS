@@ -24,6 +24,13 @@
     {
       "library": "vue@3.2.45",
       "destination": "wwwroot/lib/vue/"
+    },
+    {
+      "library": "moment.js@2.29.4",
+      "destination": "wwwroot/lib/moment.js/",
+      "files": [
+        "moment.min.js"
+      ]
     }
   ]
 }
