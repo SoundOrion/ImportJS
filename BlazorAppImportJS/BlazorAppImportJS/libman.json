@@ -15,10 +15,11 @@
     },
     {
       "library": "jqueryui@1.13.2",
-      "destination": "wwwroot/lib/jqueryui/",
-      "files": [
-        "jquery-ui.min.js"
-      ]
+      "destination": "wwwroot/lib/jqueryui/"
+    },
+    {
+      "library": "vuejs-datepicker@1.6.2",
+      "destination": "wwwroot/lib/vuejs-datepicker/"
     }
   ]
 }
